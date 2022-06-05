@@ -18,7 +18,7 @@ class About extends Component {
           developer You can find information about my portfolio here. I having
           strong management, problem analysis and problem solving
           skills,pleasant personality and team orientatedinterpersonal skills to
-          work effectively with others. 555
+          work effectively with others. 
         </p>
       </div>
     );
